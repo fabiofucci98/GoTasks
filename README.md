@@ -20,6 +20,6 @@ A simple Task Management CLI application written in Go.
 ## Installation
 ```
 go mod tidy
-go build GoTasks.go
+go build main.go -o GoTasks
 ./GoTasks
 ```
