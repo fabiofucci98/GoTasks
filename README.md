@@ -16,3 +16,10 @@ A simple Task Management CLI application written in Go.
 - Create, list, and delete tasks.
 - View details of individual tasks.
 - Save tasks to a JSON file for persistence.
+
+## Installation
+```
+go mod tidy
+go build GoTasks.go
+./GoTasks
+```
